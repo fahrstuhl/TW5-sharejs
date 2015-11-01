@@ -1,0 +1,9 @@
+{
+    "title": "$:/plugins/fahrstuhl/TW5-sharejs",
+    "description": "Collaborative editing using sharejs",
+    "author": "Fahrstuhl",
+    "version": "0.0.1",
+    "core-version": ">=5.0.8",
+    "source": "https://github.com/fahrstuhl/TW5-sharejs",
+    "plugin-type": "plugin"
+}
